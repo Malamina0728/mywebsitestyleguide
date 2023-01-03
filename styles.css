@@ -1,0 +1,171 @@
+html {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 28px;
+}
+
+.colorslist {
+    height: auto;
+    width: cover;
+    border: 1px solid black;
+    padding: 20px;
+    display: block;
+    margin: 10px auto;
+}
+
+.LightBlue {
+    display: inline-block;
+    margin-top: 15px;
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: lightblue;
+    color: black;
+    
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.FireBrick{
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: #B22222;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+p {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.DarkViolet {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: darkviolet;
+    text-align: center;
+    color: white;
+    margin:0 auto;
+    overflow: auto;
+}
+
+.Cornsilk {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    border-radius: 30px;
+    background-color: cornsilk;
+    text-align: center;
+    color:black;
+    margin: 0 auto;
+    overflow: auto;
+
+
+}
+
+.fonts{
+    height: auto;
+    width: cover;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: left;
+    font-size: medium;
+}
+
+
+.roboto {
+    font-family: 'Roboto';
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+}
+
+.plain{
+    text-align: left;
+
+
+}
+
+.Quicksand .bold {
+    font-weight: 700;
+    text-align: left;
+
+}
+
+.roboto .bold {
+    font-weight: 700;
+    text-align: left;
+   
+
+}
+.Manrope .bold {
+    font-weight: 700;
+    text-align: left;
+}
+
+.italic {
+    font-style: italic;
+    text-align: left;
+    
+}
+
+.name {
+    text-decoration: underline;
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+}
+
+.Quicksand {
+    font-family: 'Quicksand';
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+
+
+}
+
+.Manrope {
+    font-family: 'Manrope';
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+    
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.textstyles {
+    height: auto;
+    width: cover;
+    border: 1px solid black;
+    padding: 20px;
+    display: block;
+    margin: 10px auto;
+
+}
+
+.text {
+    text-align: left;
+}
