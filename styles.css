@@ -186,6 +186,7 @@ h2 {
     padding: 20px;
     display: block;
     margin: 10px auto;
+    overflow: auto;
 
 }
 
