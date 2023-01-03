@@ -180,8 +180,7 @@ h2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .textstyles {
-    height: auto;
-    width: cover;
+    position: relative;
     border: 1px solid black;
     padding: 20px;
     display: block;
